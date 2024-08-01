@@ -12,3 +12,4 @@ resource "aws_instance" "expense" {
         }
     )
 }
+#C:\Users\pratnala\OneDrive - Capgemini\Desktop\devops\repos\terraform-multi_env\tfvars\dev\dev.tfvars
