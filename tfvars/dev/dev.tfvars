@@ -1,6 +1,6 @@
 instance_names = {
 
-  db-dev = "t3.small"
+  db-dev = "t3.micro"
   backend-dev = "t3.micro"
   frontend-dev = "t3.micro"
 
