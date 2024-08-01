@@ -1,4 +1,4 @@
-instance_name = {
+instance_names = {
 
   db-prod = "t3.small"
   backend-prod = "t3.micro"
