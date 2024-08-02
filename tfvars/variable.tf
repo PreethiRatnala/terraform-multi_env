@@ -20,7 +20,7 @@ variable "common_tags" {
 }
 
 variable "domain_name" {
-    default = "hkinfo.fyi"
+    default = "daws78s.life"
 }
 
 variable "zone_id" {
